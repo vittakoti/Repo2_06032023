@@ -1,1 +1,8 @@
-First GIT file
+public class Demo
+{
+public void doLogic()
+{
+
+//logic
+}
+}
