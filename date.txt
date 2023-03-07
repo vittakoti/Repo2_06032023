@@ -1,0 +1,7 @@
+public clas Date
+{
+public void logicdate()
+{
+//logic date 
+}
+}
